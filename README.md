@@ -29,6 +29,8 @@ Python · openpyxl · Power BI · DAX · Power Query
 
 ## Files
 
-- `Job_Listings.xlsx` — structured job posting data
+- `Rozee Data Analyst Jobs Clean.xlsx` — cleaned, structured job posting data
+- `rozee manual collection.xlsx` — manual data collection source
 - `summary.txt` — manual verification summary used to cross-check the cleaned dataset
-- `Pakistan Data Analyst Job Market Dashboard.pbix` — the full Power BI report
+- `Pakistan Data Analyst Job Market.pbix` — the full Power BI report
+- `Model View.png`, `city_demand.png`, `top_skills.png` — dashboard screenshots
