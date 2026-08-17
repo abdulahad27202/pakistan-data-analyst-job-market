@@ -1,0 +1,37 @@
+ROZEE.PK DATA ANALYST JOB MARKET -- SUMMARY
+=============================================
+
+Total listings analyzed: 64
+(Manually collected from Rozee.pk search results, filtered
+for relevance to data analyst / analytics-adjacent roles.)
+
+Top requested skills/tools:
+  Excel                    32 listings (50.0%)
+  Data Analysis            25 listings (39.1%)
+  Data Entry               19 listings (29.7%)
+  Attention to Detail      18 listings (28.1%)
+  Power BI                  9 listings (14.1%)
+  SQL                       8 listings (12.5%)
+  Python                    8 listings (12.5%)
+  Dashboard                 7 listings (10.9%)
+  Report Writing            5 listings (7.8%)
+  Data Visualization        5 listings (7.8%)
+  Business Intelligence     5 listings (7.8%)
+  Data Validation           5 listings (7.8%)
+  Google Sheets             5 listings (7.8%)
+  Statistical Analysis      4 listings (6.2%)
+  Machine Learning          4 listings (6.2%)
+
+Top cities by job count:
+  Lahore                   17 listings (26.6%)
+  Karachi                  15 listings (23.4%)
+  All Cities               14 listings (21.9%)
+  Islamabad                 7 listings (10.9%)
+  Hyderabad                 3 listings (4.7%)
+  Rawalpindi                2 listings (3.1%)
+  Multiple Cities           1 listings (1.6%)
+  Kasur                     1 listings (1.6%)
+  Multan                    1 listings (1.6%)
+  Sargodha                  1 listings (1.6%)
+  Sheikhupura               1 listings (1.6%)
+  Wah Cantt                 1 listings (1.6%)
